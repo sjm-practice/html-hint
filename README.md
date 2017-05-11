@@ -1,6 +1,6 @@
 ## HTML HINT
 
-*based on [hint.css](https://github.com/chinchang/hint.css) with html content support*
+*based on [hint.css](https://github.com/chinchang/hint.css) with html content support* `NOTE (SJM): I purchased a developer license for this package, for potential use in a project`
 
 The main disadvantage of [hint.css](https://github.com/chinchang/hint.css) is it's inability to show html content inside hint.
 This css library extends [hint.css](https://github.com/chinchang/hint.css) with html hints.
