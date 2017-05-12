@@ -10,6 +10,7 @@
     "build": "node-sass --output-style expanded html-hint.sass > ./dist/html-hint.css",
     "min": "node-sass --output-style compressed html-hint.sass > ./dist/html-hint.min.css",
     "min-marker": "node-sass --output-style compressed html-hint-marker.sass > ./dist/html-hint-marker.min.css",
+    "build-marker": "node-sass --output-style expanded html-hint-marker.sass > ./dist/html-hint-marker.css",
     "prepublish": "npm run build && npm run min"
   },
   "repository": {
